@@ -41,7 +41,7 @@ import React from 'react';
        return <div><button onClick={this.onSignInClick} className="ui red google button">
        <i className="google icon"/>
        Sign In with Google
-     </button>)</div>
+     </button></div>
      }
    }
    render(){
